@@ -2,7 +2,7 @@
 应用于联想ThinkPad Edge E430c的OpenCore 1.0.3的黑苹果引导 支持macOS Big Sur 11.7
 
 注意：此EFI不含三码 实际使用时请自行使用[OCAT](https://github.com/ic005k/OCAuxiliaryTools)生成
-![](Image.png)
+![](image.png)
 
 ### 配置清单
 |类型|型号|规格|
