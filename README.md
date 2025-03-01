@@ -19,9 +19,9 @@
 |BIOS|Phoenix UEFI|H0ET94WW(2.54)|
 
 #### 无法工作的部分
-- 独显：目前无解
 - Wi-Fi蓝牙：需要更换"Intel Wireless-N 2230"网卡(BIOS原生支持)
 - 隔空投送和接力：需要破解BIOS网卡白名单，并更换博通WI-FI网卡。
+- 独显：目前无解
 - VGA接口：无解
 - DRM硬解：无解
 
